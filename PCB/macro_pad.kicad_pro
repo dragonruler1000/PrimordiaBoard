@@ -489,7 +489,7 @@
       "plot": "../production/gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "macro_pad.step",
+      "step": "macro_pad.stl",
       "svg": "",
       "vrml": ""
     },
