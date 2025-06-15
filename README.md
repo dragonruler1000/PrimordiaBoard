@@ -1,4 +1,4 @@
-# Minecraftchest2's Macropad
+# [Primordiaboard](https://primordiasystems.minecraftchest2.us/projects/primordiaboard.html)
 
 Hello! This is my submission for Hackpad! It was made for Hackpad v3.
 
