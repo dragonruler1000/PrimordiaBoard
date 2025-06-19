@@ -1,4 +1,4 @@
-</br><img src="https://profile-counter.glitch.me/Dragonruler1000-art_soul/count.svg" alt="Visitor Counter"/>
+</br><img src="https://profile-counter.glitch.me/Dragonruler1000-primordiaboard/count.svg" alt="Visitor Counter"/>
 # [Primordiaboard](https://primordiasystems.minecraftchest2.us/projects/primordiaboard.html)
 
 Hello! This is my submission for Hackpad! It was made for Hackpad v3.
